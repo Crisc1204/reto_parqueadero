@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Parqueadero</string>
+    <string name="txt_bienvenida">Bienvenido(a)</string>
+    <string name="btn_tarifas">Configurar tarifas</string>
+    <string name="registrsr_ingreso_salida">Registrar ingresos y salidas</string>
+    <string name="digitar_placa">Digitar placa</string>
+    <string name="registrar_ingreso">Registrar ingreso</string>
+    <string name="registrar_salida">Registrar salida</string>
+    <string name="cantidadHoras">Cantidad de horas</string>
+    <string name="totalPagar">Total a pagar</string>
+    <string name="buscar">Buscar</string>
+    <string name="registro_tarifa">Registrar tarifa</string>
+    <string name="digite_nombre_tarifa">Digite el nombre de la tarifa</string>
+    <string name="digite_valor_tarifa">Digite el valor de la tarifa</string>
+    <string name="guardar">Guardar</string>
+    <string name="listado_tarifas">Listado de tarifa</string>
+    <string name="menu_principal">Menú principal</string>
+    <string name="requerido">Requerido</string>
+    <string name="successfully">Información guardada</string>
+    <string name="tarifas">Tarifas</string>
+    <string name="sin_tarifas">No hay tarifas registradas</string>
+    <string name="configurar_tarifa">Configurar tarifas</string>
+    <string name="debe_seleccionar_tarifa">Debe seleccionar una tarifa</string>
+    <string name="informacion_guardada_exitosamente">Información guardada con éxito</string>
+    <string name="confirmDialogMessage">¿Quiere registrar la salida?</string>
+    <string name="confirmDialogTitle">Registrar salida</string>
+    <string name="confirmDelete">Continuar</string>
+    <string name="cancelDelete">Cancelar</string>
+    <string name="selecciona_una_fecha">Selecciona las fechas para continuar.</string>
+    <string name="fecha_invalida">"La Fecha Final no puede ser menor que la Fecha Inicial: "</string>
+    <string name="sin_registros">No existen registros para las fechas seleccionadas.</string>
+    <string name="salida_exitosa">La salida se registro exitosamente!</string>
+</resources>
